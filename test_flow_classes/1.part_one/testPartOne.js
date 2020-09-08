@@ -45,7 +45,7 @@ class PartOne {
         this.browser, 
         this.selector.getDescription
       );
-      await this.f.getText(
+      await this.f.verifyHigherNumber(
         this.browser,
         this.selector.getPrice,
         this.insertStatusRepo,

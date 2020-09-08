@@ -10,6 +10,7 @@ module.exports = (
     browser
       .waitForElementVisible(getText[1], 10000, false)
       .getText(getText[1], async (res) => {
+        //Check with assertion of nightwatch
         await browser.verify.ok(
           parseInt(res.value.slice(1)) > parseInt(getText[2].slice(1))
         );

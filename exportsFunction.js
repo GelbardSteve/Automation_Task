@@ -4,7 +4,7 @@ module.exports = {
   clickOnElement: require("./commands/clickOnElement"),
   waitForElement: require("./commands/waitForElement"),
   pause: require("./commands/pause"),
-  getText: require("./commands/getText"),
+  verifyHigherNumber: require("./commands/verifyHigherNumber"),
   deleteFromFolder: require("./commands/deleteFromFolder.js"),
   saveScreenShots: require("./commands/saveScreenShots.js"),
   logToConsole: require("./commands/logToConsole.js"),
