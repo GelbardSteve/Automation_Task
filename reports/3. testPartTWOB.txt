@@ -1,0 +1,6 @@
+Time: 19:28, Date: 09-08-2020
+
+SUCCEED At Comment: Open Window, Data - Login URL | https://skinnyties.com/
+SUCCEED At Comment: Click On Element, Data - Click On Nav Elemnent | #section-header > div > div:nth-child(1) > nav > ul > li:nth-child(6) > a
+SUCCEED At Comment: Move To Element, Data - Scroll Down | #shopify-section-collection-template > section > div.CollectionMain > div.CollectionInner > div.CollectionInner__Products > div > div > div:nth-child(14)
+SUCCEED At Comment: Check Sum Of Product Size larger than $20, Data - Check Sum Of Product Size larger than $20 | #shopify-section-collection-template > section > div.CollectionMain > div.CollectionInner > div.CollectionInner__Products > div > div | $ | 1 | 0 | 20

@@ -1,0 +1,7 @@
+Time: 19:27, Date: 09-08-2020
+
+SUCCEED At Comment: Open Window, Data - Login URL | https://skinnyties.com/
+SUCCEED At Comment: Click On Element, Data - Search Box | #section-header > div > div:nth-child(3) > nav > ul > li:nth-child(1) > a
+SUCCEED At Comment: Insert Text, Data - Search Box | #Search > div > div.Search__SearchBar > form > input.Search__Input.Heading
+SUCCEED At Comment: Click On Element, Data - Product Page | #Search > div > div.Search__Results > div > div.Segment__Content > div > div > div > div > a
+SUCCEED At Comment: Check If Price Larger Than $10, Data - Check If Price Larger Than $10 | #shopify-section-product-template > section > div.Product__Wrapper > div.Product__InfoWrapper > div > div > div > div.ProductMeta__PriceList.Heading > span
