@@ -1,4 +1,4 @@
-const path = "../automations_project/reports/screenShots";
+const path = "../automation_task/reports/screenShots";
 module.exports = (browser, res, cell) => {
   return new Promise(resolve => {
     if (res) {
