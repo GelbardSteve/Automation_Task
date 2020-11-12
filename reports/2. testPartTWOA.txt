@@ -1,4 +1,4 @@
-Time: 19:27, Date: 09-08-2020
+Time: 21:57, Date: 11-12-2020
 
 SUCCEED At Comment: Open Window, Data - Login URL | https://skinnyties.com/
 SUCCEED At Comment: Move To Element, Data - Hover On Nav Elemnent | #section-header > div > div:nth-child(1) > nav > ul > li:nth-child(5) > a
