@@ -6,7 +6,7 @@ const reports = require("../../utils/reportsCreate");
 const createNewRepo = reports.createNewReport;
 const insertStatusRepo = reports.insertStatusReport;
 
-const deleteFolder = "../Automation_Task/reports/screenShots";
+const deleteFolder = "../checkSumOfSizeAndCostAutomation/reports/screenShots";
 
 module.exports = {
   testPartTwo: async function (browser, testNum) {
